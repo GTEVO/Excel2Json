@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Excel2Json": {
+        "commandName": "Project",
+        "commandLineArgs": "-i $(ProjectDir)/Data -o $(ProjectDir)/Data"
+    }
+  }
+}
